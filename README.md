@@ -1,6 +1,7 @@
 # ML-Training
 
-Repository contains the course I went through to study basics on modelling using ML techniques.Course ranges 6 days, organized per day or algorithem wise and with the workspace, so you can download it indivudlly.</li>
+Repository contains the course I went through to study basics on modelling using ML techniques.Course ranges 6 days, organized per day or algorithem wise and with the workspace, so you can download it indivudlly. Any documents or data here is not mine neither I hold any re-distribution rights in any ways. Please reach out to me in case if you want me to remove the content from here.
+
 Will upload the list of R packages used later
 <li> following topics where covered </li>
     <li> Introduction to Business Analytics
