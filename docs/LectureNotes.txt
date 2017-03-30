@@ -1,0 +1,37 @@
+
+what would be the data quality
+ - how do we verify the data quality	
+	away from variance like age 95 for a particular loan applicant**
+	
+Data quality techniques
+
+correlation - what is happening
+causality - why is it happeing
+
+if there is correlation there must be causition
+
+Response Variable (Y)
+Explanatory variable (X)
+	- controllable  / not controllable
+	- 
+Measuring - requires operational definition
+- when the order placed and when is it recieved
+	should consider the day of ordering, or not - that sorts of definition
+
+nominal - text data, which is not used directly - does not have any order
+
+ordinal - Categorical measures with an implicit orderig - it has some ordered data
+
+important part is to define the what is the variable***
+
+How many documents, in what time.
+discrete & continuous - > continous 
+
+discrete - logistic regression
+continuous - simple regression
+
+sample size 50 histogram - 
+when histogram is not normal - following methods are used for :
+1. probably plots method
+2. goodness of fit test - (crude)
+	

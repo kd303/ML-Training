@@ -1,0 +1,11 @@
+What is normality - can outliers affect normality?
+Is it checking whether data follows normal distribution?
+when outlier has values of 0, how do you transform?
+Residual analysis and transformation - why and how to do it. y and root of y needs to be understood properly
+Leave one out Cross validation - what is the use and when to use
+for me:
+Need to understand ANOVA for models ?!
+p-distribution - what are they 
+
+
+

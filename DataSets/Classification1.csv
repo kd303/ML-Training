@@ -1,0 +1,11 @@
+SL No,District,House Type,Income,Previous_Customer,Outcome
+1,Suburban,Detached,High,No,No Response
+2,Suburban,Detached,High,Yes,No Response
+3,Rural,Detached,High,No,Responded
+4,Urban,Semi-detached,High,No,Responded
+5,Urban,Semi-detached,Low,No,Responded
+6,Urban,Semi-detached,Low,Yes,No Response
+7,Rural,Semi-detached,Low,Yes,Responded
+8,Suburban,Terrace,High,No,No Response
+9,Suburban,Semi-detached,Low,No,Responded
+10,Urban,Terrace,Low,No,Responded

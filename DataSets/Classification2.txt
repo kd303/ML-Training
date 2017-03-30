@@ -1,0 +1,5 @@
+SL No	District	House Type	Income	Previous_Customer	Outcome
+11	Suburban	Terrace	Low	Yes	Responded
+12	Rural	Terrace	High	Yes	Responded
+13	Rural	Detached	Low	No	Responded
+14	Urban	Terrace	High	Yes	No Response
